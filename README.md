@@ -116,6 +116,3 @@ This project is licensed under the Apache 2.0 License — feel free to use and m
 ## 🧾 Credits
 
 Created using Google ADK, Gemini 2.5 Flash Lite, and InMemoryRunner to demonstrate a modular, LLM-driven blog generation pipeline.
-
-```
-
